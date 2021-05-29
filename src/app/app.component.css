@@ -1,0 +1,16 @@
+.tag
+{
+  text-align:center;
+}
+.container{
+  background-color:#2fe9d9;
+}
+
+input.ng-invalid.ng-touched {
+  border: 1px solid red;
+}
+
+.invalid {
+  display: block;
+  color: red;
+}
